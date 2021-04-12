@@ -2,8 +2,6 @@
 
 Het didactisch concept van FDND is erop gericht om studenten zo goed mogelijk voor te bereiden op een veranderlijke beroepspraktijk. Om deze reden gebruiken we bij het ontwerp van het curriculum en de fasering van opdrachten een projectmethodiek (Scrum) die in de beroepspraktijk standaard is. De veranderlijke beroepspraktijk en mogelijke diversiteit in instroom van studenten qua vooropleiding, gender en cultuur vragen om een flexibel onderwijsprogramma. De diversiteit in instroom maakt het daarnaast belangrijk dat we goed moeten kunnen omgaan met individuele verschillen tussen studenten. Ook vinden we het van groot belang dat studenten leren zelfstandig te opereren in een steeds complexer wordende wereld. 
 
-De beroepspraktijk staat centraal in de opleiding; studenten werken aan échte opdrachten voor echte opdrachtgevers. Dat zorgt ervoor dat studenten over actuele kennis, houding en vaardigheden beschikken en na de opleiding direct inzetbaar zijn. Opdrachten uit de beroepspraktijk worden vertaald naar leertaken. Het curriculum bestaat uit verschillende leertaken die studenten zelfstandig of in teams uitvoeren. Afgeronde leertaken worden opgenomen in een portfolio en dienen als bewijslast voor het behalen van leerresultaten.
-
 ## Werkwijze
 
 Als werkwijze gebruiken we de fasering uit Scrum die de development-lifecycle wordt genoemd. Elke leertaak wordt volgens deze methode aangepakt, hierdoor ontwikkelen de studenten een standaard manier om frontend praktijkvraagstukken aan te pakken, werken ze systematisch aan leertaken, ontwikkelen ze doorlopend het gedragscriterium ‘Methodisch handelen’, ervaren ze de relevantie van het geleerde en verwerven ze de kennis, houding en vaardigheden die de beroepspraktijk van hen vraagt.
