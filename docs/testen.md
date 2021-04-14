@@ -1,13 +1,15 @@
 # Testen
 
 Unit testing (TDD), System test, User test, device lab test, A\B testing.
+Tests uitvoeren. Prototype testen. Device lab en browser testen. 
+Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen. 
 
 
-Tests uitvoeren. User tests. Prototype testen. Device lab en browser testen. Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen. 
 
-- https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa514
+## User testen
 
-
+- [A designer’s guide to successful user testing](https://uxdesign.cc/a-beginners-guide-to-user-testing-for-usable-products-fa049df82f28)
+- [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140
 
 
 
