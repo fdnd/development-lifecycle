@@ -9,7 +9,7 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 ## User testen
 
 - [A designer’s guide to successful user testing](https://uxdesign.cc/a-beginners-guide-to-user-testing-for-usable-products-fa049df82f28)
-- [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140
+- [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140)
 
 
 
