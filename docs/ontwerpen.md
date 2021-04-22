@@ -12,6 +12,13 @@ User scenario's bedenken, Customer Journey mapping, Job stories onderzoeken, Wir
 - UI stack https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/
 - varieren
 
+## Interaction Engineering
+- [Design for Fingers, Touch, and People - Steven Hoober](https://www.uxmatters.com/mt/archives/2017/03/design-for-fingers-touch-and-people-part-1.php)
+
+
+
+
+
 
 
 ## development lifecycle
