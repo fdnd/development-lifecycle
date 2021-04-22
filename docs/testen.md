@@ -11,6 +11,9 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 - [A designer’s guide to successful user testing](https://uxdesign.cc/a-beginners-guide-to-user-testing-for-usable-products-fa049df82f28)
 - [Measuring design quality with heuristics](https://uxdesign.cc/measuring-design-quality-with-heuristics-44857efa5140)
 
+RUM
+- [Usabilitytesting: doe het zelf!](https://blog.q42.nl/usabilitytesting-5c223bc7e8b5/)
+- [Real World Wednesdays Dropbox](https://medium.com/dropbox-design/how-to-run-a-research-session-if-youre-not-a-design-researcher-2d6c1c769557)
 
 
 ## development lifecycle
