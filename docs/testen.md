@@ -24,7 +24,7 @@ Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen.
 #### ? 
 
 
-## development lifecycle
+## Development Lifecycle
 
 Studenten hanteren bij het uitvoeren van een leertaak de fasering uit de Scrum werkwijze, de development lifecycle kent de volgende stappen:
 
