@@ -21,7 +21,7 @@ User scenario's bedenken, Customer Journey mapping, Job stories onderzoeken, Wir
 
 
 
-## development lifecycle
+## Development Lifecycle
 
 Studenten hanteren bij het uitvoeren van een leertaak de fasering uit de Scrum werkwijze, de development lifecycle kent de volgende stappen:
 
