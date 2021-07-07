@@ -14,7 +14,7 @@ Visual thinking, schetsen
 - Styleguides en design systems https://www.linkedin.com/learning/ux-foundations-style-guides-and-design-systems/where-to-start?u=2132228
 
 
-## development lifecycle
+## Development Lifecycle
 
 Studenten hanteren bij het uitvoeren van een leertaak de fasering uit de Scrum werkwijze, de development lifecycle kent de volgende stappen:
 
