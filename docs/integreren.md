@@ -8,7 +8,7 @@ Publiceren, live zetten, uploaden naar de server, toevoegen in een bestaand syst
 
 
 
-## development lifecycle
+## Development Lifecycle
 
 Studenten hanteren bij het uitvoeren van een leertaak de fasering uit de Scrum werkwijze, de development lifecycle kent de volgende stappen:
 
