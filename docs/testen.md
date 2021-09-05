@@ -1,5 +1,7 @@
 # Testen
 
+In de testfase controleer je of jouw aanpassingen werken zoals bedoeld.Dit kan een technische-test zijn, maar ook een test met gebruikers of een presentatie bij deopdrachtgever om te bespreken of de opdracht goed is. ![image](https://user-images.githubusercontent.com/1391509/132140353-08b5acdf-4080-449d-9421-67c65a64ac98.png)
+
 Unit testing (TDD), System test, User test, device lab test, A\B testing.
 Tests uitvoeren. Prototype testen. Device lab en browser testen. 
 Maar ook een presentatie geven bij een opdrachtgever en opmerkingen meenemen. 
