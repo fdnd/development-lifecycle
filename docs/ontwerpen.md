@@ -1,4 +1,12 @@
 # Ontwerpen
+Bij de start van deze fase weet je wat het doel en het resultaat van je project zijn.
+
+Je weet ook welke eisen de opdrachtgever en andere belangrijke partijen aan het resultaat stellen (Wat moet het kunnen en wat niet? Waar moet men rekening mee houden? Etc.)
+
+Nu wordt het tijd om te kijken hoe het resultaat eruit zou kunnen zien.
+
+Dit is een belangrijk moment in het project. Voor veel opdrachtgevers geldt dat ze nu pas duidelijk krijgen hoe het resultaat eruit zal zien. En dat is een moment waarop veel opdrachtgevers veel duidelijker kunnen aangeven wat ze wel en niet willen.
+https://werken-aan-projecten.nl/fasen-project/ontwerpfase/
 
 Het maken van idee-schetsen, customer journey, breakdown chart, wireflows, navigatiestructuur en layout.
 
